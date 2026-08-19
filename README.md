@@ -130,38 +130,6 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maheshsd-234&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsd-234&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=maheshsd-234&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshsd-234&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 # 🏆 GitHub Achievements
 
 <div align="center">
@@ -180,15 +148,6 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 
 </div>
 
----
-
-# 💻 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maheshsd-234&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&custom_title=Mahesh%20S%20D%20-%20GitHub%20Statistics" />
-
-</div>
 ---
 
 # 🤝 Let's Connect
