@@ -77,20 +77,10 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,linux,postman,vscode" />
 </p>
-
 ---
 
-# ⭐ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Maheshsd-234/CareerVerse_AI">
-<h1>CareerVerse_AI</h1>
-</a>
-
-</div>
----
-# 📊 GitHub Analytics
+#  📊 GitHub Analytics
 
 <div align="center">
 
@@ -140,16 +130,65 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maheshsd-234&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maheshsd-234&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsd-234&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 </div>
 
 ---
 
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=maheshsd-234&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshsd-234&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=maheshsd-234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%" />
+
+</div>
+
+---
+
+# 📌 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshsd-234&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
+# 💻 GitHub Contributions
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maheshsd-234&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&custom_title=Mahesh%20S%20D%20-%20GitHub%20Statistics" />
+
+</div>
 ---
 
 # 🤝 Let's Connect
