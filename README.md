@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Mahesh S D**, an **AI & Machine Learning undergraduate developer** focused on building practical, scalable and visually polished software.
+I'm **Mahesh S D**, an **AI & Machine Learning undergraduate** driven by a passion for building intelligent, scalable, and meaningful software. I work across **Artificial Intelligence, Machine Learning, Full-Stack Development, and Product Design**, combining engineering with creativity to turn ideas into real-world digital experiences.
 
 My interests sit at the intersection of:
 
@@ -37,7 +37,6 @@ My interests sit at the intersection of:
 - 🌐 Full-Stack Development
 - 🧩 Data Structures & Algorithms
 - 🎨 Product Design & Developer Experience
-- ⚡ Real-time & Intelligent Applications
 
 I enjoy turning an idea into a complete product — from **architecture and AI models to backend systems, APIs and polished interfaces**.
 
