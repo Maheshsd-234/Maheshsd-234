@@ -20,7 +20,7 @@
 
 <br/>
 
-> **Building intelligent products that connect AI, software, and real-world problems.**
+> **Passionate About Building AI-Driven Solutions That Solve Real-World Problems**
 
 </div>
 
