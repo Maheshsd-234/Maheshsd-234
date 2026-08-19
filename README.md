@@ -121,16 +121,40 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 <img src="https://github-readme-stats.vercel.app/api?username=maheshsd-234&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Activity" />
 
 </div>
-
 ---
 
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maheshsd-234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%" />
+<table>
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Maheshsd-234">
+<img
+src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
+width="110"
+alt="Quickdraw"
+/>
+</a>
+
+<br/>
+
+<b>⚡ Quickdraw</b>
+
+<br/>
+
+<sub>Closed an issue or pull request<br/>within 5 minutes of opening</sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
 ---
 
 # 🤝 Let's Connect
