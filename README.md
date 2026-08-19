@@ -46,21 +46,6 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 
 ---
 
-# ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Maheshsd-234/CareerVerse_AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshsd-234&repo=CareerVerse_AI&theme=transparent&hide_border=true&show_owner=true" />
-</a>
-
-<a href="https://github.com/Maheshsd-234/Plant-disease-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshsd-234&repo=Plant-disease-detection&theme=transparent&hide_border=true&show_owner=true" />
-</a>
-
-</div>
----
-
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -95,6 +80,16 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 
 ---
 
+# ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Maheshsd-234/CareerVerse_AI">
+<h1>CareerVerse_AI</h1>
+</a>
+
+</div>
+---
 # 📊 GitHub Analytics
 
 <div align="center">
