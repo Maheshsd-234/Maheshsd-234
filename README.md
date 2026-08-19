@@ -44,5 +44,3 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 ```text
 💡 Think → 🏗️ Build → 🧪 Test → 🚀 Deploy → 📈 Improve
 
-
-<div align="center"> <a href="https://github.com/Maheshsd-234/CareerVerse_AI"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshsd-234&repo=CareerVerse_AI&theme=transparent&hide_border=true&show_owner=true" /> </a> <a href="https://github.com/Maheshsd-234/Plant-disease-detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshsd-234&repo=Plant-disease-detection&theme=transparent&hide_border=true&show_owner=true" /> </a> </div> <div align="center"> <a href="https://github.com/Maheshsd-234/Diabetes-Prediction-Application"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshsd-234&repo=Diabetes-Prediction-Application&theme=transparent&hide_border=true&show_owner=true" /> </a> <a href="https://github.com/Maheshsd-234/career-compass-360"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshsd-234&repo=career-compass-360&theme=transparent&hide_border=true&show_owner=true" /> </a> </div>
