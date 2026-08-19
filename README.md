@@ -81,13 +81,7 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 
 
 #  📊 GitHub Analytics
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheshsd-234&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsd-234&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
 </div>
 
 <br/>
@@ -137,17 +131,6 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 <img src="https://github-profile-trophy.vercel.app/?username=maheshsd-234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%" />
 
 </div>
-
----
-
-# 📌 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshsd-234&theme=tokyonight" width="100%" />
-
-</div>
-
 ---
 
 # 🤝 Let's Connect
