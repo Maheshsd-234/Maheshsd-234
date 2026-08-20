@@ -88,6 +88,9 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 <div align="center">
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshsd-234&theme=github_dark" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maheshsd-234&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="170" />
+</p>
 
 </div>
 
