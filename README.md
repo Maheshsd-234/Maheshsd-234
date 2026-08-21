@@ -1,29 +1,36 @@
+<!-- HERO SECTION -->
 <div align="center">
 
-# 👋 Hey, I'm Mahesh S D
+<!-- Animated futuristic background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:312E81&height=220&section=header&text=Mahesh%20S%20D&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=55&desc=AI%2FML%20Engineer%20%20•%20%20Full-Stack%20Developer&descAlignY=78&descSize=18&descColor=A78BFA" />
 
-### AI & Full-Stack Developer · ML Enthusiast · Builder · Designer
+<br>
 
-<p>
-  <a href="https://github.com/Maheshsd-234">
-    <img src="https://img.shields.io/badge/GitHub-Maheshsd--234-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/maheshsd2005">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahesh%20S%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:maheshsd557@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### ⚡ Building Intelligent Systems · AI/ML · Full-Stack · Innovation
 
-<img src="https://komarev.com/ghpvc/?username=maheshsd-234&label=Profile%20Views&color=0e75b6&style=flat-square" />
+<br>
 
-<br/>
+<a href="https://github.com/Maheshsd-234">
+<img src="https://img.shields.io/badge/GitHub-Maheshsd--234-0A0A0A?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
 
-> **Passionate About Building AI-Driven Solutions That Solve Real-World Problems**
+<a href="https://www.linkedin.com/in/maheshsd2005">
+<img src="https://img.shields.io/badge/LinkedIn-Mahesh%20S%20D-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
+</a>
+
+<a href="mailto:maheshsd557@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A3E635"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Maheshsd-234&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
+
+<br><br>
 
 </div>
 
+---
 ---
 
 ## 🧑‍💻 About Me
