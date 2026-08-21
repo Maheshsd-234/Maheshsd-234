@@ -106,6 +106,14 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maheshsd-234/output/github-snake-dark.svg" alt="GitHub Snake"/>
+</p>
+
+---
+
 # 📈 Contribution Activity
 
 <div align="center">
