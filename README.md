@@ -110,7 +110,7 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Maheshsd-234/Maheshsd-234/output/ocean.gif"
+    src="https://raw.githubusercontent.com/Maheshsd-234/Maheshsd-234/output/github-snake-dark.svg""
     alt="GitHub Contribution Snake Animation"
   />
 </p>
