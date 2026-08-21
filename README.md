@@ -109,7 +109,10 @@ I enjoy turning an idea into a complete product — from **architecture and AI m
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maheshsd-234/output/github-snake-dark.svg" alt="GitHub Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/Maheshsd-234/Maheshsd-234/output/ocean.gif"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
 
 ---
